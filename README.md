@@ -4,13 +4,13 @@ Developed infrastructure in AWS, using IaC approach with Terraform
 
 Services:
 
-RDS
-ASG
-ELB
+RDS,
+ASG,
+ELB,
 SG
 
 Requirements:
 
-Modules
-Remote state file
+Modules,
+Remote state file,
 Multi-environment
